@@ -18,5 +18,6 @@ public class demo2 {
         System.out.println("你好，西南科技大学");
         System.out.println("hello 123");
         System.out.println("hello 123master");
+        System.out.println("hello 123hot-fix");
     }
 }
