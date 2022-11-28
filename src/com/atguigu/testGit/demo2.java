@@ -13,14 +13,15 @@ public class demo2 {
         System.out.println("hello world!!!");
         System.out.println("hello world!!!");
         for(int i=0; i<10; i++) {
-            System.out.println("ÄãºÃÊÀ½ç£¡");
+            System.out.println("ä½ å¥½ä¸–ç•Œï¼");
         }
-        System.out.println("ÄãºÃ£¬Î÷ÄÏ¿Æ¼¼´óÑ§");
+        System.out.println("ä½ å¥½ï¼Œè¥¿å—ç§‘æŠ€å¤§å­¦");
         System.out.println("hello 123");
         System.out.println("hello 123master");
         System.out.println("hello 123hot-fix");
-        System.out.println("Ñ§Ï°git");
-        System.out.println("ÄãºÃ£¬git");
-        System.out.println("ÄãºÃ£¬git");
+        System.out.println("å­¦ä¹ git");
+        System.out.println("ä½ å¥½ï¼Œgit");
+        System.out.println("ä½ å¥½ï¼Œgit");
+        System.out.println("ä½ å¥½ï¼Œgit edit in github");
     }
 }
