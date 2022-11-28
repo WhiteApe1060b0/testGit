@@ -1,5 +1,12 @@
 package com.atguigu.testGit;
 
+
+/**
+*
+* @author limber
+* @date 2022/11/28
+*/
+
 public class demo2 {
     public static void main(String[] args) {
         System.out.println("hello world!!!");
@@ -9,5 +16,6 @@ public class demo2 {
             System.out.println("你好世界！");
         }
         System.out.println("你好，西南科技大学");
+        System.out.println("hello 123");
     }
 }
