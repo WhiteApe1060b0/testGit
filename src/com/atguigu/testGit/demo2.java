@@ -8,5 +8,6 @@ public class demo2 {
         for(int i=0; i<10; i++) {
             System.out.println("你好世界！");
         }
+        System.out.println("你好，西南科技大学");
     }
 }
