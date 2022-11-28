@@ -21,5 +21,6 @@ public class demo2 {
         System.out.println("hello 123hot-fix");
         System.out.println("Ñ§Ï°git");
         System.out.println("ÄãºÃ£¬git");
+        System.out.println("ÄãºÃ£¬git");
     }
 }
